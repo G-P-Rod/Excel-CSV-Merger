@@ -12,11 +12,6 @@ This project contains a Python script for merging data from multiple CSV and Exc
     - openpyxl
 
 
-## Installation of Dependencies
-To install the required Python libraries, execute the following command:
-pip install -r requirements.txt
-
-
 ## Usage
 1. Place the source files in the `data/raw` folder.
 2. Run the `main.ipynb` script.
