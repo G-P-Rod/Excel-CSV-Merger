@@ -1,0 +1,2 @@
+# Python dependencies required to run this project.
+pandas == 2.2.*
